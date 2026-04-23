@@ -1,0 +1,73 @@
+Reverse: 1999 Story Archive License Notice
+重返未来：1999 剧情整理仓库许可说明
+
+This repository contains both original maintainer contributions and copyrighted
+game-related materials. The scope below is intentionally limited so that the
+repository does not overstate rights it does not own.
+
+本仓库同时包含整理者原创贡献与受版权保护的游戏相关内容。以下许可范围经过刻意限制，
+以避免对并不属于仓库维护者的权利作出超范围声明。
+
+1. Scope of Licensed Material / 许可范围
+
+The maintainer licenses only the original repository-management materials that
+the maintainer created, including:
+
+- README and explanatory text
+- repository structure and organization choices
+- file naming conventions
+- curation notes, cleanup rules, and release-packaging notes
+- any future helper scripts or metadata created specifically for this repository
+
+维护者仅对其自己创作的仓库管理类材料授予许可，包括但不限于：
+
+- README 与说明文字
+- 仓库目录组织方式
+- 文件命名规范
+- 清洗规则总结、整理说明、发布打包说明
+- 后续专门为本仓库编写的辅助脚本或元数据
+
+These original maintainer contributions are made available under the terms of
+the Creative Commons Attribution 4.0 International license, to the extent the
+maintainer has rights in them.
+
+上述原创贡献，在维护者享有相应权利的范围内，按 Creative Commons
+Attribution 4.0 International（CC BY 4.0）许可开放使用。
+
+License reference / 许可参考：
+https://creativecommons.org/licenses/by/4.0/
+
+2. Excluded Material / 排除内容
+
+The following materials are NOT licensed by this repository, are NOT relicensed
+under CC BY 4.0, and remain the property of their respective rightsholders:
+
+- original Reverse: 1999 story text
+- character names, worldbuilding, official terminology, and dialogue
+- artwork, CGs, logos, trademarks, and other visual assets
+- any other third-party materials reproduced or referenced in the archive
+
+以下内容不在本仓库许可范围内，不因本说明而转授 CC BY 4.0 或其他许可，
+相关权利仍归各自权利人所有：
+
+- 《重返未来：1999》原始剧情文本
+- 角色名称、世界观设定、官方术语与对白内容
+- 美术、CG、Logo、商标及其他视觉素材
+- 仓库中引用、整理或收录的其他第三方内容
+
+3. Repository Use Guidance / 仓库使用指引
+
+You may reuse the maintainer's original repository-management contributions with
+attribution, but you should not interpret this notice as granting any license
+to the official game story or other excluded materials.
+
+你可以在保留署名的前提下复用维护者原创的仓库管理类内容，但不得将本说明理解为
+对官方游戏剧情或其他排除内容授予了任何许可。
+
+4. Takedown and Corrections / 下架与修正
+
+If a rightsholder requests removal, correction, or changes to the included
+materials, the maintainer should review the request in good faith and make
+reasonable adjustments.
+
+如相关权利人提出移除、修正或调整请求，维护者应当善意审查并进行合理处理。
