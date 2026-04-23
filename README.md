@@ -1,7 +1,11 @@
 # Reverse: 1999 Story Archive
 
+<p align="center">
+  <img src="./Banner_人们向何处去.png" alt="Reverse: 1999 Story Archive Banner">
+</p>
+
 <p>
-  <a href="https://github.com/foreverCuSO4/reverse-1999-story-archive/releases/latest"><strong>Latest Release / 最新发布</strong></a>
+  <a href="https://github.com/foreverCuSO4/reverse-1999-story-archive/releases/latest"><strong>Latest Release (Download Here) / 最新发布 (此处下载)</strong></a>
 </p>
 
 <details open>
@@ -11,7 +15,7 @@
 
 这是一个面向阅读、检索与下载的 **《重返未来：1999》剧情整理仓库**，当前收录范围为 **1.0 到 3.6**。
 
-仓库内文件基于公开玩家资料进行抓取、清洗、重排与人工复审，保留剧情正文中的对白、旁白、题记、镜头描写等故事内容，并提供多种导出格式。
+仓库内文件基于公开玩家资料进行抓取、清洗、重排与复审，保留剧情正文中的对白、旁白、题记、镜头描写等故事内容，并提供多种导出格式。
 
 ## 仓库内容
 
@@ -59,7 +63,7 @@
 
 本仓库包含两类内容，它们的权利范围不同：
 
-- 整理者原创贡献：如 README、说明文字、目录组织、命名规范、清洗规则总结、打包与发布说明等
+- 整理者(我的)：如 README、说明文字、目录组织、命名规范、清洗规则总结、打包与发布说明等
 - 官方或第三方权利内容：如游戏原始剧情文本、角色名称、美术、CG、商标、Logo 及其他相关素材
 
 为了避免误导，本仓库**没有**把官方剧情文本整体声明为通用开源内容。更正式的许可与权利边界请见：
@@ -70,6 +74,7 @@
 ## 说明
 
 - 本仓库是**非官方的民间整理项目**
+- 该项目仅供同人创作、语言学习、剧情考据使用，绝对禁止用于任何商业盈利。
 - 游戏本体、剧情、角色、美术及相关权利归原权利人所有
 - 如相关权利人对收录方式有异议，仓库维护者应配合调整或移除相关内容
 
@@ -87,7 +92,7 @@
 
 This repository is a **Reverse: 1999 story archive** intended for reading, searching, and downloading. The current coverage is **v1.0 through v3.6**.
 
-The files were assembled from public fan-maintained sources, then cleaned, reorganized, and manually reviewed. The archive keeps story-relevant content such as dialogue, narration, epigraphs, and scene descriptions, and provides multiple export formats.
+The files were assembled from public fan-maintained sources, then cleaned, reorganized, and reviewed. The archive keeps story-relevant content such as dialogue, narration, epigraphs, and scene descriptions, and provides multiple export formats.
 
 ## Repository Contents
 
@@ -135,7 +140,7 @@ Example:
 
 This repository contains two different categories of material:
 
-- original maintainer contributions, such as the README, explanatory text, repository organization, naming conventions, curation notes, and release packaging notes
+- my own contributions, such as the README, explanatory text, repository organization, naming conventions, curation notes, and release packaging notes
 - official or third-party materials, such as the original game story text, character names, artwork, CGs, trademarks, logos, and related assets
 
 To avoid overstating rights, this repository **does not** claim to open-license the official game story as a whole. For the formal scope and rights boundary, see:
@@ -146,6 +151,7 @@ To avoid overstating rights, this repository **does not** claim to open-license 
 ## Notes
 
 - This is an **unofficial fan-made archive**
+- This project is intended only for fan creation, language learning, and story or lore research, and must not be used for any commercial purpose
 - The original game, story, characters, artwork, and related rights belong to their respective rightsholders
 - If a rightsholder objects to the inclusion or presentation of specific materials, the maintainer should review and adjust or remove them as appropriate
 
