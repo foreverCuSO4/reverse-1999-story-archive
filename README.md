@@ -1,7 +1,7 @@
 # Reverse: 1999 Story Archive
 
 <p align="center">
-  <img src="./Banner_人们向何处去.png" alt="Reverse: 1999 Story Archive Banner">
+  <img src="./Banner_他者的悲哀.webp" alt="Reverse: 1999 Story Archive Banner">
 </p>
 
 <p>
