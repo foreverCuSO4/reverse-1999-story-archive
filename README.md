@@ -13,7 +13,7 @@
 
 ## 简介
 
-这是一个面向阅读、检索与下载的 **《重返未来：1999》剧情整理仓库**，当前收录范围为 **1.0 到 3.6**。
+这是一个面向阅读、检索与下载的 **《重返未来：1999》剧情整理仓库**，当前收录范围为 **1.0 到 3.7**。
 
 仓库内文件基于公开玩家资料进行抓取、清洗、重排与复审，保留剧情正文中的对白、旁白、题记、镜头描写等故事内容，并提供多种导出格式。
 
@@ -25,10 +25,10 @@
 
 当前状态：
 
-- `33` 份 Markdown
-- `33` 份 TXT
-- `33` 份 PDF
-- 覆盖版本：`1.0` 到 `3.6`
+- `34` 份 Markdown
+- `34` 份 TXT
+- `34` 份 PDF
+- 覆盖版本：`1.0` 到 `3.7`
 
 ## 下载方式
 
@@ -45,7 +45,7 @@
 
 - `1.x` 指 `1.0` 到 `1.9`
 - `2.x` 指 `2.0` 到 `2.8`
-- `3.x` 指 `3.0` 到 `3.6`
+- `3.x` 指 `3.0` 到 `3.7`
 
 ## 文件命名
 
@@ -90,7 +90,7 @@
 
 ## Overview
 
-This repository is a **Reverse: 1999 story archive** intended for reading, searching, and downloading. The current coverage is **v1.0 through v3.6**.
+This repository is a **Reverse: 1999 story archive** intended for reading, searching, and downloading. The current coverage is **v1.0 through v3.7**.
 
 The files were assembled from public fan-maintained sources, then cleaned, reorganized, and reviewed. The archive keeps story-relevant content such as dialogue, narration, epigraphs, and scene descriptions, and provides multiple export formats.
 
@@ -102,10 +102,10 @@ The files were assembled from public fan-maintained sources, then cleaned, reorg
 
 Current status:
 
-- `33` Markdown files
-- `33` TXT files
-- `33` PDF files
-- Coverage: versions `1.0` to `3.6`
+- `34` Markdown files
+- `34` TXT files
+- `34` PDF files
+- Coverage: versions `1.0` to `3.7`
 
 ## Downloads
 
@@ -122,7 +122,7 @@ Where:
 
 - `1.x` means `1.0` through `1.9`
 - `2.x` means `2.0` through `2.8`
-- `3.x` means `3.0` through `3.6`
+- `3.x` means `3.0` through `3.7`
 
 ## File Naming
 
